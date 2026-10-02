@@ -14,7 +14,7 @@
 
 # 팀원 이메일
 - 권신용: sbeetle@naver.com
-- 박재혁:
+- 박재혁: qkrwogur1305@naver.com
 
 
 # 2026-10-02(1일차 기초 현장 교육)
